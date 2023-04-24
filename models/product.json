@@ -1,0 +1,11 @@
+{
+    "name": "iphone13",
+    "description": "This is osm mobile",
+    "category": "Electronic",
+    "subCategory": "mobilePhone",
+    "company": "Apple",
+    "color": "black",
+    "price": 60000,
+    "material": "metal",
+    "origin": "USA"
+}

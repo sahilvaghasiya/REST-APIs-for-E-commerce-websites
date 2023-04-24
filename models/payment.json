@@ -1,0 +1,6 @@
+{
+    "orderId": "string",
+    "shippingId": "string",
+    "totalAmount": 23,
+    "paymentMethod": "string"
+}

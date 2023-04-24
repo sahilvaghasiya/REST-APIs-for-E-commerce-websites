@@ -1,0 +1,8 @@
+{
+    "userId": "string",
+    "productId": "product._id",
+    "deliverType": "onLocation",
+    "orderIssueDate": "string",
+    "orderDeliveryDate": "string",
+    "amount": 5000
+}

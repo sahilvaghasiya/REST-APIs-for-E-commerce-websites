@@ -1,0 +1,8 @@
+{
+    "street": "string",
+    "city": "string",
+    "state": "string",
+    "pinCode": 123456,
+    "mobileNumber": 123567890,
+    "country": "string"
+}

@@ -1,0 +1,4 @@
+*.JavaScript linguist-detectable=true
+*.Node.js linguist-detectable=true
+*.express.js linguist-detectable=true
+*.mongoDb linguist-detectable=true
